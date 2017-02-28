@@ -9,5 +9,3 @@ echo "Creating database..."
 createdb sociome
 
 cat master.sql | psql sociome
-
-rm master.sql
