@@ -1,0 +1,13 @@
+variable_name,variable_code,source1_name,units_description,units
+Adult Obesity,adult_obesity,http://www.countyhealthrankings.org/rankings/data,Percent of adults that report a BMI of 30 or more,%
+Physical Inactivity,physical_inactivity,http://www.countyhealthrankings.org/rankings/data,Percentage of adults aged 20 and over reporting no leasure-time physical activity,%
+Alcohol-impaired driving deaths,alcohol_impaired_driving_deaths,http://www.countyhealthrankings.org/rankings/data,Percentage of driving deaths with alcohol involvement,%
+Sexually transmitted infections,sexually_transmitted_infections,http://www.countyhealthrankings.org/rankings/data,"Number of newly diagnosed chlamydia cases per 100,000 population","cases/100,000 population"
+Uninsured,uninsured,http://www.countyhealthrankings.org/rankings/data,Percentage of population under age 65 without health insurance,%
+Preventable Hospital Stays,preventable_hospital_stays,http://www.countyhealthrankings.org/rankings/data,"Number of hospital stays for ambulatory-care sensitive conditions per 1,000 Medicare enrollees","cases/1,000 Medicare enrollees"
+Diabetic Monitoring,diabetic_monitoring,http://www.countyhealthrankings.org/rankings/data,Percentage of diabetic Medicare enrollees ages 65-75 that receive HbA1c monitoring,%
+Mammography Screening,mammography_screening,http://www.countyhealthrankings.org/rankings/data,Percentage of female Medicare enrollees ages 67-69 that receive mammography screening,%
+Unemployment Rate,unemployment_rate,http://www.countyhealthrankings.org/rankings/data,Percentage of population ages 16 and older unemployed but seeking work,%
+Children in Poverty,children_in_poverty,http://www.countyhealthrankings.org/rankings/data,Percentage of children under age 18 in poverty,%
+Violent Crime Rate,violent_crime_rate,http://www.countyhealthrankings.org/rankings/data,"Number of reported violent crime offenses per 100,000 population","cases/100,000 population"
+Air pollution - particulate matter,air_pollution_particulate_matter,http://www.countyhealthrankings.org/rankings/data,Average daily density of fine particulate matter in micrograms per cubic meter,PM2.5
